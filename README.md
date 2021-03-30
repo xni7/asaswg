@@ -1,4 +1,3 @@
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # ASA/DIA Safety Working Group
 
