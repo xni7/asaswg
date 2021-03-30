@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
-subtitle: ASA SWG
+title: ASA SWG
 ---
 
-# ASA Biopharm Safety Working Group (SWG)
+## ASA Biopharm Safety Working Group (SWG)
 
 **Mission**:  Empower the biostatistics community and interdisciplinary safety management partnerships  to better enable qualitative and quantitative safety evaluation throughout drug development life cycle
 
