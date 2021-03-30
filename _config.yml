@@ -14,7 +14,7 @@ author: ASA/DIA SWG
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "about"
+  About: "about"
   Workstreams:
     - WS1: "https://community.amstat.org/biop/workinggroups/safety/safety-workstream1"
     - WS2: "https://community.amstat.org/biop/workinggroups/safety/safety-workstream2"
