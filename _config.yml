@@ -6,19 +6,21 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: ASA/DIA Safety Working Group
 
 # Your name to show in the footer
-author: Some Person
+author: ASA/DIA SWG
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Workstreams:
+    - WS1: "https://community.amstat.org/biop/workinggroups/safety/safety-workstream1"
+    - WS2: "https://community.amstat.org/biop/workinggroups/safety/safety-workstream2"
+    - WS3: "https://community.amstat.org/biop/workinggroups/safety/safety-workstream3"
+  Presentations: "https://community.amstat.org/biop/workinggroups/safety/safety-presentations"
+  Publications: "https://community.amstat.org/biop/workinggroups/safety/safety-publications"
 
 # --- Logo --- #
 
@@ -40,7 +42,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
+  linkedin: https://www.linkedin.com/groups/13572331/
   github: daattali
   twitter: daattali
   patreon: DeanAttali

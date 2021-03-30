@@ -1,16 +1,26 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: ASA SWG
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# ASA Biopharm Safety Working Group (SWG)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Mission**:  Empower the biostatistics community and interdisciplinary safety management partnerships  to better enable qualitative and quantitative safety evaluation throughout drug development life cycle
 
-What else do you need?
+Our **goals** are to:
 
-### My story
+- Encourage increased use of systematic safety assessment approaches
+- Where appropriate, develop new methods to address the existing safety challenges
+- Educate the broader statistical community to understand and contribute to this important area
+- Increase statisticians’ leadership roles in cross-functional collaboration
+- Communicate statistical perspectives to larger clinical trial community
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The SWG consists of three workstreams (WS), which are general scope and relatively long-term.
+
+- WS1: Interdisciplinary safety evaluation 
+- WS2: Safety monitoring statistical methodology
+- WS3: integration and bridging the RWE and RCT for safety decision making
+- Each workstream includes several task forces (TF), which are deliverable-based and time-bounded.
+
+
